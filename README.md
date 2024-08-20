@@ -13,6 +13,9 @@ I will try improved and extend this simple example so you will see how it would 
     Python struct:
     https://docs.python.org/3/library/struct.html
 
+    Python Reading and Writing Files
+    https://docs.python.org/3/tutorial/inputoutput.html
+
 
 # Requirements
 
