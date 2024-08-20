@@ -2,9 +2,7 @@
 How to read SNES ROM file using Python struct module
 
 Follow-up tutorials for Python "struct" module, this time we will open and read a binary file and parse the content.
-I will also improved and extend this simple example and you will also see how it will be used.
-
-That's why I want to share my experience and adventure while I'm building it.
+I will try improved and extend this simple example so you will see how it would be used and improved further.
 
 # Additional readings
 
