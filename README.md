@@ -15,3 +15,20 @@ That's why I want to share my experience and adventure while I'm building it.
     Python struct:
     https://docs.python.org/3/library/struct.html
 
+
+# Requirements
+
+* Python 3
+* Sample SNES ROM file
+
+# My Current Setup
+
+ - Development/Client Laptop
+	 - Linux / Python 3.10.12
+	 - Mac / Python 3.12.2
+
+# What's next?
+
+ - Read Old NES ROM
+ - Read Game Boy ROM
+ - May be we can write our own emulator using Python
